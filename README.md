@@ -26,3 +26,4 @@ I'm also trying to follow the guide on the README and it says to show a 3D model
 
 ## Bill of Materials
 
+Please look at the BOM.csv file.
