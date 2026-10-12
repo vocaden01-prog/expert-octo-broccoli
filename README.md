@@ -10,6 +10,10 @@ Essentially, the Starbie is just a knock off Tamagotchi, though I'm sure you kno
 
 I believe that this works (don't quote me though) by an Arduino reading data from the temperature + moisture sensor, the accelerator and gryoscopic sensor, and input from the two switches to interact with a little star dude thing. 
 
+<img width="1203" height="441" alt="Screenshot 2026-10-11 at 8 35 49 PM" src="https://github.com/user-attachments/assets/ba3faf40-abe9-4bd2-aa60-caee263d28aa" />
+
+This is just a simulation, but it pretty much explains everything (check out the .html file).
+
 ## Bill of Materials
 
 Please look at the BOM.csv file.
